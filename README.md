@@ -10,5 +10,6 @@ Blog proyect Git and GitHub course.
 * Freddy's multiple personalities
 * created by Cristianco9
 * examples created in Windows Linux and MacOs
+* available for all ages
 
 And as a frendly reminder: **This readme.md is a joke**
