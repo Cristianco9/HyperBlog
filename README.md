@@ -8,5 +8,6 @@ Blog proyect Git and GitHub course.
 * True love by good practice
 * Crazy teacher's tricks
 * Freddy's multiple personalities
+* created by Cristianco9
 
 And as a frendly reminder: **This readme.md is a joke**
